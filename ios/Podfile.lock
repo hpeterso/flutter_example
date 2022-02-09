@@ -1,0 +1,31 @@
+PODS:
+  - ACPCore (2.9.4):
+    - ACPCore/main (= 2.9.4)
+  - ACPCore/main (2.9.4)
+  - Flutter (1.0.0)
+  - flutter_acpcore (0.0.1):
+    - ACPCore (~> 2.5)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_acpcore (from `.symlinks/plugins/flutter_acpcore/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ACPCore
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_acpcore:
+    :path: ".symlinks/plugins/flutter_acpcore/ios"
+
+SPEC CHECKSUMS:
+  ACPCore: 7d09a5b7233d72fa7cb4369c99a8250fd7240305
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_acpcore: 781971fcbde815f237f85a4fb33539ffee53ab5d
+
+PODFILE CHECKSUM: ce13d36744da294d67f8e460dbb7aed7c09bd7f4
+
+COCOAPODS: 1.10.1
